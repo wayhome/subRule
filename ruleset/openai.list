@@ -18,3 +18,5 @@ DOMAIN-KEYWORD,openaiapi
 DOMAIN-KEYWORD,openaipublic
 DOMAIN-KEYWORD,open-ai-chat
 DOMAIN-KEYWORD,openai
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,claude.ai
