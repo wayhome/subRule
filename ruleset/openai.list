@@ -21,4 +21,5 @@ DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,imagine.meta.com
