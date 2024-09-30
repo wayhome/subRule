@@ -1,6 +1,6 @@
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,open-ai-chat
-DOMAIN,gemini.google.com
+DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,chatgpt.com
@@ -30,6 +30,3 @@ DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,marscode.com
-DOMAIN-SUFFIX,research.google.com
-DOMAIN-SUFFIX,google.dev
-DOMAIN-SUFFIX,aistudio.google.com
