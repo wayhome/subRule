@@ -23,5 +23,9 @@ DOMAIN-SUFFIX,socloud.me
 DOMAIN-SUFFIX,codecrafters.io
 DOMAIN-KEYWORD,bsky
 DOMAIN-KEYWORD,libgen
-DOMAIN-SUFFIX,backpack.exchange
 DOMAIN-SUFFIX,brilliant.org
+
+# backpack
+DOMAIN-SUFFIX,rsms.me
+DOMAIN-SUFFIX,backpack.exchange
+DOMAIN-SUFFIX,madlads.com
